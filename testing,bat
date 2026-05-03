@@ -1,0 +1,23 @@
+@echo off
+
+                                                                                                                    
+echo     OOOOOOOOO        SSSSSSSSSSSSSSS      tttt                                            lllllll                  
+echo   OO:::::::::OO    SS:::::::::::::::S  ttt:::t                                            l:::::l                  
+echo OO:::::::::::::OO S:::::SSSSSS::::::S  t:::::t                                            l:::::l                  
+echo O:::::::OOO:::::::OS:::::S     SSSSSSS  t:::::t                                            l:::::l                  
+echo O::::::O   O::::::OS:::::S        ttttttt:::::ttttttt       ooooooooooo      ooooooooooo    l::::l     ssssssssss   
+echo O:::::O     O:::::OS:::::S        t:::::::::::::::::t     oo:::::::::::oo  oo:::::::::::oo  l::::l   ss::::::::::s  
+echo O:::::O     O:::::O S::::SSSS     t:::::::::::::::::t    o:::::::::::::::oo:::::::::::::::o l::::l ss:::::::::::::s 
+echo O:::::O     O:::::O  SS::::::SSSSStttttt:::::::tttttt    o:::::ooooo:::::oo:::::ooooo:::::o l::::l s::::::ssss:::::s
+echo O:::::O     O:::::O    SSS::::::::SS    t:::::t          o::::o     o::::oo::::o     o::::o l::::l  s:::::s  ssssss 
+echo O:::::O     O:::::O       SSSSSS::::S   t:::::t          o::::o     o::::oo::::o     o::::o l::::l    s::::::s      
+echo O:::::O     O:::::O            S:::::S  t:::::t          o::::o     o::::oo::::o     o::::o l::::l       s::::::s   
+echo O::::::O   O::::::O            S:::::S  t:::::t    tttttto::::o     o::::oo::::o     o::::o l::::l ssssss   s:::::s 
+echo O:::::::OOO:::::::OSSSSSSS     S:::::S  t::::::tttt:::::to:::::ooooo:::::oo:::::ooooo:::::ol::::::ls:::::ssss::::::s
+echo OO:::::::::::::OO S::::::SSSSSS:::::S  tt::::::::::::::to:::::::::::::::oo:::::::::::::::ol::::::ls::::::::::::::s 
+echo  OO:::::::::OO   S:::::::::::::::SS     tt:::::::::::tt oo:::::::::::oo  oo:::::::::::oo l::::::l s:::::::::::ss  
+echo     OOOOOOOOO      SSSSSSSSSSSSSSS         ttttttttttt     ooooooooooo      ooooooooooo   llllllll  sssssssssss 
+echo .
+echo .
+echo [-Loading-]
+timeout /t 15 /nobreak

@@ -33,7 +33,10 @@ echo .
 echo   -- Press a number/letter on your keyboard to activate that option! --
 echo .
 :menu
-echo "BIOS" -> Restart to BIOS
-set /p op="Please type your selection ->"
+echo BIOS -> Restart to BIOS
+set /p op="Please type your selection ->  "
 if "%op%"=="BIOS" goto BIOS
 echo Sorry, that isn't an option!
+
+:BIOS
+echo TEST

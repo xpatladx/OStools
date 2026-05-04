@@ -34,7 +34,7 @@ echo   -- Press a number/letter on your keyboard to activate that option! --
 echo .
 goto menu
 
-echo   -- 1 - Goes resarts to bios --
+echo   -- 1 - Goes to bios --
 set /p op="Choose an option: "
 
 if "%op%"=="BIOS" goto BIOS

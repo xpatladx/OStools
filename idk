@@ -35,9 +35,12 @@ echo .
 goto menu
 :menu
 echo BIOS -> Restart to BIOS
-set /p op="Please type your selection ->  "
+set /p op="Choose an option: "
+
 if "%op%"=="BIOS" goto BIOS
-echo Sorry, that isn't an option!
+echo Invalid option, please try again.
+pause
+goto menu 
 
 :BIOS
 echo TEST

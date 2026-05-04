@@ -1,5 +1,5 @@
 @echo off
-
+cls
                                                                                                                     
 echo     OOOOOOOOO        SSSSSSSSSSSSSSS      tttt                                            lllllll                  
 echo   OO:::::::::OO    SS:::::::::::::::S  ttt:::t                                            l:::::l                  
@@ -21,3 +21,14 @@ echo .
 echo .
 echo [-Loading-]
 timeout /t 15 /nobreak
+cls
+echo Hey there! Welcome to OStools. Please read the documentation, or you can experiment!
+echo Thanks again!
+echo --Team OStools
+timeout /t 5
+cls
+echo                   // Hey there, Welcome! //
+echo         // What would you like to experiment today?//
+echo .
+echo   -- Press a number/letter on your keyboard to activate that option! --
+echo .

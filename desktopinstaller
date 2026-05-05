@@ -1,2 +1,3 @@
 @echo off
+cd desktop
 curl --output "OStools Launcher.bat" https://raw.githubusercontent.com/xpatladx/OStools/refs/heads/main/desktopshortcut
